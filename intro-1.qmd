@@ -1,0 +1,36 @@
+---
+title: "Stat-850 Homework-10"
+author: "Maksuda Toma"
+format: revealjs
+editor: visual
+---
+
+## Introduction:
+
+## Hello! This is ***Maksuda Toma***. I'm from Bangladesh and I grew up in the southern part of the country. My birth date is on December 3rd, 1997 and I'm eagerly waiting for that day because I love to celebrate my birthday. Currently, I'm pursuing my Master's degree at University of Nebraska Lincoln. Probably I would graduate in next 2025.
+
+## Favourite Animal
+
+## ![](images/photo-1533450718592-29d45635f0a9-01.jpg)
+
+## My favourite Plot
+
+```{r}
+library(mclust)
+data(banknote)
+
+library(ggplot2)
+
+# Create a histogram with fill colors
+ggplot(banknote, aes(x = Length, fill = Status)) +
+  geom_histogram(binwidth = 0.1, color = "black") +
+  labs(title = "Histogram of Banknote Length by Status",
+       x = "Length",
+       y = "Count")
+```
+
+---
+
+## CV Link
+Link to my CV
+<https://maksudatoma.github.io/Maksuda_toma_CV.pdf>
