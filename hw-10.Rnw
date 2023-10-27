@@ -1,0 +1,45 @@
+\documentclass{beamer}
+\usepackage{hyperref}
+%Information to be included in the title page:
+\title{Stat 850 Homework-10}
+\author{Maksuda Aktar Toma}
+\institute{University of Nebraska Lincoln}
+\date{27 October 2023}
+
+\begin{document}
+
+\frame{\titlepage}
+
+\begin{frame}
+\frametitle{Introduction}
+Hello! This is Maksuda Toma. I'm from Bangladesh and I grew up in the southern part of the country. My birth date is on December 3rd, 1997 and I'm eagerly waiting for that day because I love to celebrate my birthday. Currently, I'm pursuing my Master's degree at University of Nebraska Lincoln. Probably I would graduate in next 2025.
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Favourite Animal}
+\includegraphics[width=.6\textwidth]{images/rabbit-breeds-american-white-1553635287.jpg}
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Favourite plot}
+
+<<plot,echo=FALSE,message=FALSE,fig.cap="My Favourite Plot",out.width=".7\\textwidth">>=
+library(mclust)
+library(ggplot2)
+ggplot(banknote, aes(x = Length, fill = Status)) +
+  geom_histogram(binwidth = 0.1, color = "black") +
+  labs(title = "Histogram of Banknote Length by Status",
+       x = "Length",
+       y = "Count")
+@
+
+\end{frame}
+
+\begin{frame}
+\frametitle{CV Link}
+This is the link of my CV
+\href{https://maksudatoma.github.io/Maksuda_toma_CV.pdf}{here}
+\end{frame}
+
+\end{document}
+
