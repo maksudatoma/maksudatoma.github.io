@@ -7,3 +7,5 @@ Stat-850:Homework 10
 
 [Beamer Slides](hw-10.pdf)
 
+[html_slides](intro.html)
+
