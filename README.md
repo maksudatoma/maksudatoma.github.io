@@ -1,5 +1,8 @@
 # maksudatoma.github.io
 Stat-850:Homework 10
 
-[html slides](intro.qmd)
+CV
+
+[html slides](intro.html)
+
 [beamer slides](hw-10.pdf)
