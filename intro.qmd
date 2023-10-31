@@ -9,13 +9,13 @@ editor: visual
 
 Hello! This is ***Maksuda Toma***. I'm from Bangladesh and I grew up in the southern part of the country. My birth date is on December 3rd, 1997 and I'm eagerly waiting for that day because I love to celebrate my birthday. Currently, I'm pursuing my Master's degree at University of Nebraska Lincoln. Probably I would graduate in next 2025.
 
----
+------------------------------------------------------------------------
 
 ## Favourite Animal
 
-![](images/rabbit-breeds-american-white-1553635287 (1)-08.jpg)
+![](images/rabbit-breeds-american-white-1553635287%20(1)-08.jpg)
 
----
+------------------------------------------------------------------------
 
 ## Fabourite Plot
 
@@ -34,7 +34,7 @@ ggplot(banknote, aes(x = Length, fill = Status)) +
   
 ```
 
----
+------------------------------------------------------------------------
 
 ## My CV Link
 
