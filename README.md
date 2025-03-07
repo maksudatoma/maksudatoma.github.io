@@ -1,6 +1,6 @@
 # maksudatoma.github.io
 
-[Resume](Resume_Maksuda_Toma!.pdf)
+[Resume](Resume_Maksuda_Toma.docx)
 
 [CV](Maksuda_toma_CV.pdf)
 
