@@ -4,15 +4,21 @@ title: "Home"
 permalink: /
 ---
 
-![Maksuda Aktar Toma](/images/profile.jpg){: width="200px"}
+![Maksuda Aktar Toma](git.jpeg){: width="200px"}
+
 
 Welcome!  
 I'm **Maksuda Aktar Toma**, a PhD student in Statistics at the University of Nebraska–Lincoln.
 
+My research interests include statistical modeling, machine learning, deep learning, data visualization, and AI applications in agriculture and biological data. I am particularly interested in longitudinal data analysis, change-point detection, and predictive modeling for health-related and agricultural systems.
+
+
 My interests include:
-- Data Visualization
-- Biostatistics
+- AI in Agriculture
+- Deep Learning
 - Statistical Modeling
 - Machine Learning
+- Data Visualization
 
-📄 [Download My Resume](/images/Resume_Maksuda_Toma.pdf)
+
+📄 [Download My Resume](Academic_CV.pdf)
