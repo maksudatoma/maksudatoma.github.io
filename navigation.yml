@@ -1,17 +1,20 @@
 - title: "Home"
   url: /
 
-- title: "CV"
-  url: /cv/
-
 - title: "Publications"
   url: /publications/
+
+- title: "Academic Projects"
+  url: /academic projects/
 
 - title: "Teaching"
   url: /teaching/
 
-- title: "Presentations"
-  url: /presentations/
+- title: "Workshops"
+  url: /workshops/
 
-- title: "Contact"
-  url: /contact/
+- title: "Talk"
+  url: /talk/
+  
+- title: "Awards"
+  url: /awards/
