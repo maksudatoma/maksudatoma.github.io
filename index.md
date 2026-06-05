@@ -4,7 +4,7 @@ title: "Home"
 permalink: /
 ---
 
-![Maksuda Aktar Toma](profile.jpg){: width="250px"}
+![Maksuda Aktar Toma](git.jpeg){: width="250px"}
 
 
 Welcome!  
