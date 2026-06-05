@@ -1,7 +1,15 @@
 title: "Maksuda Aktar Toma"
 email: mtoma2@huskers.unl.edu
 url: "https://maksudatoma.github.io"
-author: Maksuda Aktar Toma
+author: "Maksuda Aktar Toma"
 github_username: maksudatoma
 theme: minima
-avatar: "/images/profile.jpg"
+avatar: "/git.jpeg"
+
+header_pages:
+  - index.md
+  - projects.md
+  - publications.md
+  - presentations.md
+  - award.md
+  - teaching.md
