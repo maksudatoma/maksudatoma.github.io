@@ -1,0 +1,34 @@
+---
+---
+
+@import "minima";
+
+/* Put site name on its own line */
+.site-header .wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+/* Make name larger and bold */
+.site-title,
+.site-title:visited {
+  font-size: 28px;
+  font-weight: 700;
+  color: #222222;
+  margin-bottom: 10px;
+}
+
+/* Put navigation under the name */
+.site-nav {
+  float: none;
+  line-height: normal;
+  margin-top: 5px;
+}
+
+/* Style navigation links */
+.site-nav .page-link {
+  font-size: 16px;
+  font-weight: 500;
+  margin-right: 20px;
+}
